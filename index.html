@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rishaan | Personal Website</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="logo" href="#home">RDO</a>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#projects">Projects</a>
+      <a href="#skills">Skills</a>
+      <a href="#interests">Interests</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="home" class="hero">
+      <div class="hero-text">
+        <p class="eyebrow">WELCOME TO MY WEBSITE</p>
+        <h1>Hi, I'm <span>Rishaan.</span></h1>
+        <p class="intro">
+          I like programming, gaming, making websites, experimenting with game ideas,
+          and learning how technology works.
+        </p>
+        <div class="buttons">
+          <a class="primary" href="#projects">View My Projects</a>
+          <a class="secondary" href="#about">About Me</a>
+        </div>
+      </div>
+
+      <div class="hero-card">
+        <div class="terminal-bar">
+          <span></span><span></span><span></span>
+        </div>
+        <pre><code>const person = {
+  name: "Rishaan",
+  username: "RDO",
+  interests: [
+    "programming",
+    "gaming",
+    "music",
+    "technology"
+  ],
+  currentlyLearning: true
+};</code></pre>
+      </div>
+    </section>
+
+    <section id="about" class="section">
+      <p class="section-label">ABOUT</p>
+      <h2>A little about me</h2>
+      <div class="about-grid">
+        <div>
+          <p>
+            I'm a student who enjoys building things with code. I like turning ideas
+            into websites, small games, tools, and experiments. I have worked with
+            Java, Python, Lua, HTML, CSS, and JavaScript.
+          </p>
+          <p>
+            I also enjoy learning about computers, GitHub, game development, physics
+            simulations, and how apps and operating systems are designed.
+          </p>
+        </div>
+        <div class="stats">
+          <div><strong>6</strong><span>Languages & tools</span></div>
+          <div><strong>10+</strong><span>Project ideas built</span></div>
+          <div><strong>RDO</strong><span>Online username</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="projects" class="section">
+      <p class="section-label">PROJECTS</p>
+      <h2>Things I've made</h2>
+      <div class="cards">
+        <article class="card">
+          <div class="icon">♠</div>
+          <h3>Basic Blackjack</h3>
+          <p>A simple browser blackjack game with clear win and loss states.</p>
+          <span>HTML · CSS · JavaScript</span>
+        </article>
+
+        <article class="card">
+          <div class="icon">📝</div>
+          <h3>Save & Load Notes</h3>
+          <p>A website that saves text as a JSON file and loads it again later.</p>
+          <span>HTML · JavaScript · JSON</span>
+        </article>
+
+        <article class="card">
+          <div class="icon">🧊</div>
+          <h3>Cubey 2D</h3>
+          <p>A puzzle platformer with levels, hazards, checkpoints, lives, and climbing.</p>
+          <span>Java · BlueJ · G2D</span>
+        </article>
+
+        <article class="card">
+          <div class="icon">🖥</div>
+          <h3>RDOS Concept</h3>
+          <p>A futuristic operating-system concept combining desktop and mobile ideas.</p>
+          <span>UI Design · Web Development</span>
+        </article>
+
+        <article class="card">
+          <div class="icon">🎓</div>
+          <h3>GPA Calculator</h3>
+          <p>A simple tool for entering classes and calculating a grade-point average.</p>
+          <span>HTML · CSS · JavaScript</span>
+        </article>
+
+        <article class="card">
+          <div class="icon">🎮</div>
+          <h3>Game Experiments</h3>
+          <p>Small physics, logic, ragdoll, calculator, and interactive browser projects.</p>
+          <span>JavaScript · Lua · Game Logic</span>
+        </article>
+      </div>
+    </section>
+
+    <section id="skills" class="section">
+      <p class="section-label">SKILLS</p>
+      <h2>What I use</h2>
+      <div class="skill-list">
+        <div><span>HTML</span><b>Web structure</b></div>
+        <div><span>CSS</span><b>Layouts and design</b></div>
+        <div><span>JavaScript</span><b>Interactive websites</b></div>
+        <div><span>Java</span><b>Games and school projects</b></div>
+        <div><span>Python</span><b>Programs and experiments</b></div>
+        <div><span>Lua</span><b>Game scripting</b></div>
+        <div><span>GitHub</span><b>Hosting and version control</b></div>
+      </div>
+    </section>
+
+    <section id="interests" class="section">
+      <p class="section-label">INTERESTS</p>
+      <h2>Outside of coding</h2>
+      <div class="interest-grid">
+        <div>🎮 Gaming</div>
+        <div>🎵 Spotify & music</div>
+        <div>🚶 Walking</div>
+        <div>👥 Hanging out with friends</div>
+        <div>🧪 Physics and simulations</div>
+        <div>💻 Computers and technology</div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Basic personal website made by Rishaan.</p>
+    <button id="topButton" aria-label="Back to top">↑</button>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
