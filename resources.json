@@ -1,0 +1,4172 @@
+[
+  {
+    "name": "GitHub",
+    "url": "https://github.com",
+    "category": "Coding",
+    "description": "Host code, collaborate, and publish projects with GitHub Pages.",
+    "tags": [
+      "code",
+      "git",
+      "hosting"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.9,
+    "popular": 303,
+    "added": 264
+  },
+  {
+    "name": "CodePen",
+    "url": "https://codepen.io",
+    "category": "Coding",
+    "description": "Quickly experiment with HTML, CSS, and JavaScript in your browser.",
+    "tags": [
+      "frontend",
+      "web",
+      "sandbox"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.0,
+    "popular": 940,
+    "added": 263
+  },
+  {
+    "name": "MDN Web Docs",
+    "url": "https://developer.mozilla.org",
+    "category": "Coding",
+    "description": "Reliable documentation and tutorials for web development.",
+    "tags": [
+      "docs",
+      "html",
+      "css",
+      "javascript"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.6,
+    "popular": 162,
+    "added": 262
+  },
+  {
+    "name": "W3Schools",
+    "url": "https://www.w3schools.com",
+    "category": "Coding",
+    "description": "Beginner-friendly coding examples and interactive exercises.",
+    "tags": [
+      "learning",
+      "tutorials",
+      "beginner"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.9,
+    "popular": 433,
+    "added": 261
+  },
+  {
+    "name": "Python Tutor",
+    "url": "https://pythontutor.com",
+    "category": "Coding",
+    "description": "Visualize Python, Java, C, and JavaScript code one step at a time.",
+    "tags": [
+      "debugging",
+      "visualizer",
+      "learning"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.6,
+    "popular": 962,
+    "added": 260
+  },
+  {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org",
+    "category": "School",
+    "description": "Lessons and practice for math, science, history, and more.",
+    "tags": [
+      "education",
+      "math",
+      "practice"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.0,
+    "popular": 220,
+    "added": 259
+  },
+  {
+    "name": "Desmos",
+    "url": "https://www.desmos.com/calculator",
+    "category": "School",
+    "description": "Fast and powerful graphing calculator that runs in the browser.",
+    "tags": [
+      "math",
+      "graphs",
+      "calculator"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.9,
+    "popular": 583,
+    "added": 258
+  },
+  {
+    "name": "GeoGebra",
+    "url": "https://www.geogebra.org",
+    "category": "School",
+    "description": "Interactive tools for geometry, algebra, graphing, and statistics.",
+    "tags": [
+      "geometry",
+      "algebra",
+      "math"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.4,
+    "popular": 648,
+    "added": 257
+  },
+  {
+    "name": "WolframAlpha",
+    "url": "https://www.wolframalpha.com",
+    "category": "School",
+    "description": "Computational answers for math, science, data, and general knowledge.",
+    "tags": [
+      "calculator",
+      "science",
+      "data"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.4,
+    "popular": 948,
+    "added": 256
+  },
+  {
+    "name": "Project Gutenberg",
+    "url": "https://www.gutenberg.org",
+    "category": "School",
+    "description": "A huge library of free public-domain ebooks.",
+    "tags": [
+      "books",
+      "reading",
+      "classics"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.0,
+    "popular": 480,
+    "added": 255
+  },
+  {
+    "name": "Photopea",
+    "url": "https://www.photopea.com",
+    "category": "Creative",
+    "description": "A powerful browser image editor with support for PSD files.",
+    "tags": [
+      "photos",
+      "design",
+      "editor"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.2,
+    "popular": 174,
+    "added": 254
+  },
+  {
+    "name": "Excalidraw",
+    "url": "https://excalidraw.com",
+    "category": "Creative",
+    "description": "Make simple hand-drawn diagrams and visual notes.",
+    "tags": [
+      "drawing",
+      "diagram",
+      "whiteboard"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.8,
+    "popular": 596,
+    "added": 253
+  },
+  {
+    "name": "Coolors",
+    "url": "https://coolors.co",
+    "category": "Creative",
+    "description": "Generate and explore color palettes for your projects.",
+    "tags": [
+      "colors",
+      "design",
+      "palette"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.7,
+    "popular": 459,
+    "added": 252
+  },
+  {
+    "name": "Google Fonts",
+    "url": "https://fonts.google.com",
+    "category": "Creative",
+    "description": "Browse free fonts that can be used in websites and designs.",
+    "tags": [
+      "fonts",
+      "typography",
+      "web"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.9,
+    "popular": 563,
+    "added": 251
+  },
+  {
+    "name": "Pixabay",
+    "url": "https://pixabay.com",
+    "category": "Creative",
+    "description": "Royalty-free photos, illustrations, audio, and videos.",
+    "tags": [
+      "images",
+      "media",
+      "assets"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.8,
+    "popular": 326,
+    "added": 250
+  },
+  {
+    "name": "Neal.fun",
+    "url": "https://neal.fun",
+    "category": "Fun",
+    "description": "A collection of creative, interactive web experiments and games.",
+    "tags": [
+      "games",
+      "interactive",
+      "random"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.9,
+    "popular": 613,
+    "added": 249
+  },
+  {
+    "name": "Quick, Draw!",
+    "url": "https://quickdraw.withgoogle.com",
+    "category": "Fun",
+    "description": "Draw objects and see whether a neural network can recognize them.",
+    "tags": [
+      "drawing",
+      "ai",
+      "game"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.6,
+    "popular": 512,
+    "added": 248
+  },
+  {
+    "name": "Radio Garden",
+    "url": "https://radio.garden",
+    "category": "Fun",
+    "description": "Spin a globe and listen to live radio stations around the world.",
+    "tags": [
+      "music",
+      "radio",
+      "world"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.0,
+    "popular": 290,
+    "added": 247
+  },
+  {
+    "name": "Pointer Pointer",
+    "url": "https://pointerpointer.com",
+    "category": "Fun",
+    "description": "A wonderfully pointless website that finds a photo pointing at your cursor.",
+    "tags": [
+      "random",
+      "funny",
+      "internet"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.6,
+    "popular": 142,
+    "added": 246
+  },
+  {
+    "name": "Internet Archive",
+    "url": "https://archive.org",
+    "category": "Fun",
+    "description": "Explore archived websites, public-domain media, software, and books.",
+    "tags": [
+      "archive",
+      "history",
+      "media"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.9,
+    "popular": 653,
+    "added": 245
+  },
+  {
+    "name": "Have I Been Pwned",
+    "url": "https://haveibeenpwned.com",
+    "category": "Privacy",
+    "description": "Check whether an email address appeared in a known data breach.",
+    "tags": [
+      "security",
+      "breach",
+      "email"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 665,
+    "added": 244
+  },
+  {
+    "name": "VirusTotal",
+    "url": "https://www.virustotal.com",
+    "category": "Privacy",
+    "description": "Scan links and files using multiple security engines.",
+    "tags": [
+      "scanner",
+      "malware",
+      "links"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.3,
+    "popular": 771,
+    "added": 243
+  },
+  {
+    "name": "Privacy Guides",
+    "url": "https://www.privacyguides.org",
+    "category": "Privacy",
+    "description": "Practical, community-maintained information about digital privacy.",
+    "tags": [
+      "privacy",
+      "security",
+      "guide"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 175,
+    "added": 242
+  },
+  {
+    "name": "TinyWow",
+    "url": "https://tinywow.com",
+    "category": "Tools",
+    "description": "A large collection of simple PDF, image, video, and file tools.",
+    "tags": [
+      "files",
+      "converter",
+      "utility"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.7,
+    "popular": 459,
+    "added": 241
+  },
+  {
+    "name": "CloudConvert",
+    "url": "https://cloudconvert.com",
+    "category": "Tools",
+    "description": "Convert many types of documents, images, audio, and video files.",
+    "tags": [
+      "convert",
+      "files",
+      "format"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.0,
+    "popular": 180,
+    "added": 240
+  },
+  {
+    "name": "JSON Formatter",
+    "url": "https://jsonformatter.org",
+    "category": "Tools",
+    "description": "Format, validate, and inspect JSON data.",
+    "tags": [
+      "json",
+      "developer",
+      "format"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.4,
+    "popular": 558,
+    "added": 239
+  },
+  {
+    "name": "Speedtest",
+    "url": "https://www.speedtest.net",
+    "category": "Tools",
+    "description": "Measure your internet download speed, upload speed, and latency.",
+    "tags": [
+      "internet",
+      "network",
+      "test"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 965,
+    "added": 238
+  },
+  {
+    "name": "AlternativeTo",
+    "url": "https://alternativeto.net",
+    "category": "Tools",
+    "description": "Find alternatives to apps, websites, and software.",
+    "tags": [
+      "apps",
+      "recommendations",
+      "software"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.6,
+    "popular": 922,
+    "added": 237
+  },
+  {
+    "name": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org",
+    "category": "Coding",
+    "description": "Learn web development and programming through free lessons and projects.",
+    "tags": [
+      "coding",
+      "courses",
+      "projects"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.2,
+    "popular": 724,
+    "added": 236
+  },
+  {
+    "name": "The Odin Project",
+    "url": "https://www.theodinproject.com",
+    "category": "Coding",
+    "description": "A free, project-based curriculum for learning full-stack web development.",
+    "tags": [
+      "web development",
+      "curriculum",
+      "projects"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.4,
+    "popular": 868,
+    "added": 235
+  },
+  {
+    "name": "Roadmap.sh",
+    "url": "https://roadmap.sh",
+    "category": "Coding",
+    "description": "Visual learning paths for programming languages, tools, and developer careers.",
+    "tags": [
+      "roadmaps",
+      "careers",
+      "learning"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.3,
+    "popular": 211,
+    "added": 234
+  },
+  {
+    "name": "Stack Overflow",
+    "url": "https://stackoverflow.com",
+    "category": "Coding",
+    "description": "Search millions of programming questions and community-written answers.",
+    "tags": [
+      "questions",
+      "debugging",
+      "developers"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.6,
+    "popular": 252,
+    "added": 233
+  },
+  {
+    "name": "Replit",
+    "url": "https://replit.com",
+    "category": "Coding",
+    "description": "Write and run code in many programming languages from a browser.",
+    "tags": [
+      "online IDE",
+      "coding",
+      "projects"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.4,
+    "popular": 618,
+    "added": 232
+  },
+  {
+    "name": "JSFiddle",
+    "url": "https://jsfiddle.net",
+    "category": "Coding",
+    "description": "Test and share small HTML, CSS, and JavaScript experiments.",
+    "tags": [
+      "javascript",
+      "web",
+      "sandbox"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.1,
+    "popular": 487,
+    "added": 231
+  },
+  {
+    "name": "Can I Use",
+    "url": "https://caniuse.com",
+    "category": "Coding",
+    "description": "Check which web features work across different browsers.",
+    "tags": [
+      "browser",
+      "compatibility",
+      "web"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.2,
+    "popular": 284,
+    "added": 230
+  },
+  {
+    "name": "Regex101",
+    "url": "https://regex101.com",
+    "category": "Coding",
+    "description": "Build, test, and explain regular expressions interactively.",
+    "tags": [
+      "regex",
+      "testing",
+      "developer"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.3,
+    "popular": 821,
+    "added": 229
+  },
+  {
+    "name": "GitBook",
+    "url": "https://www.gitbook.com",
+    "category": "Coding",
+    "description": "Create and explore clean documentation for software projects.",
+    "tags": [
+      "documentation",
+      "teams",
+      "writing"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.7,
+    "popular": 109,
+    "added": 228
+  },
+  {
+    "name": "OpenStax",
+    "url": "https://openstax.org",
+    "category": "School",
+    "description": "Free, peer-reviewed textbooks for high school and college subjects.",
+    "tags": [
+      "textbooks",
+      "science",
+      "math"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.8,
+    "popular": 76,
+    "added": 227
+  },
+  {
+    "name": "CK-12",
+    "url": "https://www.ck12.org",
+    "category": "School",
+    "description": "Free digital textbooks, simulations, and practice for school subjects.",
+    "tags": [
+      "science",
+      "math",
+      "practice"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.6,
+    "popular": 152,
+    "added": 226
+  },
+  {
+    "name": "PhET Simulations",
+    "url": "https://phet.colorado.edu",
+    "category": "School",
+    "description": "Interactive science and math simulations from the University of Colorado.",
+    "tags": [
+      "simulations",
+      "physics",
+      "chemistry"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 415,
+    "added": 225
+  },
+  {
+    "name": "Symbolab",
+    "url": "https://www.symbolab.com",
+    "category": "School",
+    "description": "Solve and explore algebra, calculus, and other math problems.",
+    "tags": [
+      "math",
+      "solver",
+      "algebra"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 125,
+    "added": 224
+  },
+  {
+    "name": "Mathway",
+    "url": "https://www.mathway.com",
+    "category": "School",
+    "description": "Enter math problems and view solutions across many topics.",
+    "tags": [
+      "math",
+      "calculator",
+      "homework"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.1,
+    "popular": 417,
+    "added": 223
+  },
+  {
+    "name": "Vocabulary.com",
+    "url": "https://www.vocabulary.com",
+    "category": "School",
+    "description": "Learn word meanings with examples, quizzes, and adaptive practice.",
+    "tags": [
+      "english",
+      "words",
+      "study"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.3,
+    "popular": 441,
+    "added": 222
+  },
+  {
+    "name": "Purdue OWL",
+    "url": "https://owl.purdue.edu",
+    "category": "School",
+    "description": "Reliable guides for writing, grammar, research, and citations.",
+    "tags": [
+      "writing",
+      "citations",
+      "grammar"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.3,
+    "popular": 671,
+    "added": 221
+  },
+  {
+    "name": "Library of Congress",
+    "url": "https://www.loc.gov",
+    "category": "School",
+    "description": "Explore historical documents, photos, recordings, maps, and research collections.",
+    "tags": [
+      "history",
+      "research",
+      "archives"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.8,
+    "popular": 566,
+    "added": 220
+  },
+  {
+    "name": "Smithsonian Learning Lab",
+    "url": "https://learninglab.si.edu",
+    "category": "School",
+    "description": "Educational collections and resources from Smithsonian museums.",
+    "tags": [
+      "history",
+      "science",
+      "museum"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.6,
+    "popular": 112,
+    "added": 219
+  },
+  {
+    "name": "Canva",
+    "url": "https://www.canva.com",
+    "category": "Creative",
+    "description": "Create posters, slides, social graphics, and other visual designs.",
+    "tags": [
+      "design",
+      "templates",
+      "graphics"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.9,
+    "popular": 623,
+    "added": 218
+  },
+  {
+    "name": "Figma",
+    "url": "https://www.figma.com",
+    "category": "Creative",
+    "description": "Design interfaces, diagrams, and prototypes collaboratively.",
+    "tags": [
+      "ui",
+      "design",
+      "prototype"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.4,
+    "popular": 588,
+    "added": 217
+  },
+  {
+    "name": "Remove.bg",
+    "url": "https://www.remove.bg",
+    "category": "Creative",
+    "description": "Automatically remove the background from an image.",
+    "tags": [
+      "images",
+      "background",
+      "editing"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.9,
+    "popular": 433,
+    "added": 216
+  },
+  {
+    "name": "Squoosh",
+    "url": "https://squoosh.app",
+    "category": "Creative",
+    "description": "Compress and convert images directly inside your browser.",
+    "tags": [
+      "images",
+      "compression",
+      "converter"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.4,
+    "popular": 578,
+    "added": 215
+  },
+  {
+    "name": "SVG Repo",
+    "url": "https://www.svgrepo.com",
+    "category": "Creative",
+    "description": "Browse a large collection of downloadable SVG icons and vectors.",
+    "tags": [
+      "icons",
+      "svg",
+      "assets"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.8,
+    "popular": 996,
+    "added": 214
+  },
+  {
+    "name": "Unsplash",
+    "url": "https://unsplash.com",
+    "category": "Creative",
+    "description": "Browse high-quality photos that can be used in many creative projects.",
+    "tags": [
+      "photos",
+      "images",
+      "design"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.6,
+    "popular": 272,
+    "added": 213
+  },
+  {
+    "name": "Pexels",
+    "url": "https://www.pexels.com",
+    "category": "Creative",
+    "description": "Free stock photos and videos for school and personal projects.",
+    "tags": [
+      "photos",
+      "videos",
+      "stock"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 625,
+    "added": 212
+  },
+  {
+    "name": "DaFont",
+    "url": "https://www.dafont.com",
+    "category": "Creative",
+    "description": "Explore thousands of downloadable fonts organized by style.",
+    "tags": [
+      "fonts",
+      "typography",
+      "design"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.2,
+    "popular": 254,
+    "added": 211
+  },
+  {
+    "name": "Audacity",
+    "url": "https://www.audacityteam.org",
+    "category": "Creative",
+    "description": "Download a free, open-source audio recording and editing program.",
+    "tags": [
+      "audio",
+      "editor",
+      "open source"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.0,
+    "popular": 90,
+    "added": 210
+  },
+  {
+    "name": "A Soft Murmur",
+    "url": "https://asoftmurmur.com",
+    "category": "Fun",
+    "description": "Mix relaxing ambient sounds such as rain, waves, wind, and thunder.",
+    "tags": [
+      "ambient",
+      "relaxing",
+      "sounds"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.9,
+    "popular": 773,
+    "added": 209
+  },
+  {
+    "name": "The Useless Web",
+    "url": "https://theuselessweb.com",
+    "category": "Fun",
+    "description": "Jump to a random strange or amusing website.",
+    "tags": [
+      "random",
+      "weird",
+      "internet"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.9,
+    "popular": 203,
+    "added": 208
+  },
+  {
+    "name": "Little Alchemy 2",
+    "url": "https://littlealchemy2.com",
+    "category": "Fun",
+    "description": "Combine items to discover hundreds of new objects.",
+    "tags": [
+      "game",
+      "puzzle",
+      "crafting"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.3,
+    "popular": 651,
+    "added": 207
+  },
+  {
+    "name": "Chrome Music Lab",
+    "url": "https://musiclab.chromeexperiments.com",
+    "category": "Fun",
+    "description": "Play with interactive experiments that make music easy to explore.",
+    "tags": [
+      "music",
+      "experiments",
+      "creative"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.4,
+    "popular": 728,
+    "added": 206
+  },
+  {
+    "name": "Patatap",
+    "url": "https://patatap.com",
+    "category": "Fun",
+    "description": "Press keys to create colorful animations and musical sounds.",
+    "tags": [
+      "music",
+      "keyboard",
+      "visual"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 305,
+    "added": 205
+  },
+  {
+    "name": "Window Swap",
+    "url": "https://www.window-swap.com",
+    "category": "Fun",
+    "description": "Watch peaceful views through windows from around the world.",
+    "tags": [
+      "travel",
+      "relaxing",
+      "video"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 925,
+    "added": 204
+  },
+  {
+    "name": "MapCrunch",
+    "url": "https://www.mapcrunch.com",
+    "category": "Fun",
+    "description": "Teleport to a random Google Street View location.",
+    "tags": [
+      "maps",
+      "random",
+      "exploration"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.7,
+    "popular": 629,
+    "added": 203
+  },
+  {
+    "name": "Bitwarden",
+    "url": "https://bitwarden.com",
+    "category": "Privacy",
+    "description": "An open-source password manager with free personal features.",
+    "tags": [
+      "passwords",
+      "security",
+      "open source"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.8,
+    "popular": 846,
+    "added": 202
+  },
+  {
+    "name": "Mozilla Monitor",
+    "url": "https://monitor.mozilla.org",
+    "category": "Privacy",
+    "description": "Check whether your email has appeared in known data breaches.",
+    "tags": [
+      "breaches",
+      "email",
+      "security"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.4,
+    "popular": 128,
+    "added": 201
+  },
+  {
+    "name": "Security Planner",
+    "url": "https://securityplanner.consumerreports.org",
+    "category": "Privacy",
+    "description": "Get a personalized checklist for improving your online security.",
+    "tags": [
+      "security",
+      "guide",
+      "checklist"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.8,
+    "popular": 856,
+    "added": 200
+  },
+  {
+    "name": "Terms of Service; Didn't Read",
+    "url": "https://tosdr.org",
+    "category": "Privacy",
+    "description": "See simplified ratings and summaries of website terms and privacy policies.",
+    "tags": [
+      "terms",
+      "privacy",
+      "ratings"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.2,
+    "popular": 884,
+    "added": 199
+  },
+  {
+    "name": "PDF24 Tools",
+    "url": "https://tools.pdf24.org",
+    "category": "Tools",
+    "description": "Merge, split, compress, convert, and edit PDF files online.",
+    "tags": [
+      "pdf",
+      "files",
+      "converter"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.1,
+    "popular": 517,
+    "added": 198
+  },
+  {
+    "name": "iLovePDF",
+    "url": "https://www.ilovepdf.com",
+    "category": "Tools",
+    "description": "A straightforward collection of tools for working with PDF files.",
+    "tags": [
+      "pdf",
+      "merge",
+      "compress"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.9,
+    "popular": 403,
+    "added": 197
+  },
+  {
+    "name": "EZGIF",
+    "url": "https://ezgif.com",
+    "category": "Tools",
+    "description": "Create, resize, crop, optimize, and edit animated GIF files.",
+    "tags": [
+      "gif",
+      "images",
+      "editor"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.3,
+    "popular": 761,
+    "added": 196
+  },
+  {
+    "name": "123apps",
+    "url": "https://123apps.com",
+    "category": "Tools",
+    "description": "Browser tools for editing audio, video, PDFs, and other files.",
+    "tags": [
+      "audio",
+      "video",
+      "files"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.6,
+    "popular": 352,
+    "added": 195
+  },
+  {
+    "name": "Online Stopwatch",
+    "url": "https://www.online-stopwatch.com",
+    "category": "Tools",
+    "description": "Simple timers, stopwatches, classroom timers, and countdowns.",
+    "tags": [
+      "timer",
+      "clock",
+      "school"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.2,
+    "popular": 814,
+    "added": 194
+  },
+  {
+    "name": "Time.is",
+    "url": "https://time.is",
+    "category": "Tools",
+    "description": "Check precise local time and compare time zones around the world.",
+    "tags": [
+      "time",
+      "timezone",
+      "clock"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 905,
+    "added": 193
+  },
+  {
+    "name": "Down for Everyone or Just Me",
+    "url": "https://downforeveryoneorjustme.com",
+    "category": "Tools",
+    "description": "Check whether a website is unavailable for everyone or only for you.",
+    "tags": [
+      "status",
+      "website",
+      "network"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 905,
+    "added": 192
+  },
+  {
+    "name": "IsItDownRightNow",
+    "url": "https://www.isitdownrightnow.com",
+    "category": "Tools",
+    "description": "View website availability checks and outage history.",
+    "tags": [
+      "status",
+      "outage",
+      "web"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.3,
+    "popular": 821,
+    "added": 191
+  },
+  {
+    "name": "Ninite",
+    "url": "https://ninite.com",
+    "category": "Tools",
+    "description": "Install or update multiple popular Windows programs at once.",
+    "tags": [
+      "windows",
+      "installer",
+      "apps"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 555,
+    "added": 190
+  },
+  {
+    "name": "JustWatch",
+    "url": "https://www.justwatch.com",
+    "category": "Tools",
+    "description": "Find which streaming service currently offers a movie or show.",
+    "tags": [
+      "movies",
+      "streaming",
+      "search"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 825,
+    "added": 189
+  },
+  {
+    "name": "Hugging Face Spaces",
+    "url": "https://huggingface.co/spaces",
+    "category": "AI",
+    "description": "Try public machine-learning demos and creative AI experiments.",
+    "tags": [
+      "ai",
+      "demos",
+      "machine learning"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.1,
+    "popular": 907,
+    "added": 188
+  },
+  {
+    "name": "Google Teachable Machine",
+    "url": "https://teachablemachine.withgoogle.com",
+    "category": "AI",
+    "description": "Train simple image, sound, or pose models without writing code.",
+    "tags": [
+      "ai",
+      "learning",
+      "models"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.1,
+    "popular": 607,
+    "added": 187
+  },
+  {
+    "name": "Perplexity",
+    "url": "https://www.perplexity.ai",
+    "category": "AI",
+    "description": "Ask questions and explore web-sourced answers with citations.",
+    "tags": [
+      "research",
+      "search",
+      "assistant"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.8,
+    "popular": 946,
+    "added": 186
+  },
+  {
+    "name": "ChatGPT",
+    "url": "https://chatgpt.com",
+    "category": "AI",
+    "description": "Use an AI assistant for learning, writing, coding, and creative tasks.",
+    "tags": [
+      "assistant",
+      "coding",
+      "learning"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.9,
+    "popular": 583,
+    "added": 185
+  },
+  {
+    "name": "itch.io",
+    "url": "https://itch.io",
+    "category": "Games",
+    "description": "Discover indie games, game jams, tools, and downloadable projects.",
+    "tags": [
+      "indie",
+      "games",
+      "game jams"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.6,
+    "popular": 102,
+    "added": 184
+  },
+  {
+    "name": "Poki",
+    "url": "https://poki.com",
+    "category": "Games",
+    "description": "Play a large selection of free browser games.",
+    "tags": [
+      "browser games",
+      "casual",
+      "free"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.3,
+    "popular": 971,
+    "added": 183
+  },
+  {
+    "name": "CrazyGames",
+    "url": "https://www.crazygames.com",
+    "category": "Games",
+    "description": "Play action, puzzle, driving, and multiplayer browser games.",
+    "tags": [
+      "browser games",
+      "multiplayer",
+      "arcade"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.4,
+    "popular": 498,
+    "added": 182
+  },
+  {
+    "name": "Chess.com",
+    "url": "https://www.chess.com/play/computer",
+    "category": "Games",
+    "description": "Play chess against the computer or learn the basics.",
+    "tags": [
+      "chess",
+      "strategy",
+      "board game"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.7,
+    "popular": 419,
+    "added": 181
+  },
+  {
+    "name": "Lichess",
+    "url": "https://lichess.org",
+    "category": "Games",
+    "description": "A free and open-source chess website with puzzles and online play.",
+    "tags": [
+      "chess",
+      "open source",
+      "puzzles"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 305,
+    "added": 180
+  },
+  {
+    "name": "Bandcamp",
+    "url": "https://bandcamp.com",
+    "category": "Media",
+    "description": "Discover music and support independent artists directly.",
+    "tags": [
+      "music",
+      "artists",
+      "albums"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.0,
+    "popular": 830,
+    "added": 179
+  },
+  {
+    "name": "LibriVox",
+    "url": "https://librivox.org",
+    "category": "Media",
+    "description": "Listen to free public-domain audiobooks read by volunteers.",
+    "tags": [
+      "audiobooks",
+      "books",
+      "public domain"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 55,
+    "added": 178
+  },
+  {
+    "name": "TuneIn",
+    "url": "https://tunein.com",
+    "category": "Media",
+    "description": "Listen to radio stations, news, music, and podcasts.",
+    "tags": [
+      "radio",
+      "podcasts",
+      "music"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 415,
+    "added": 177
+  },
+  {
+    "name": "Internet Live Stats",
+    "url": "https://www.internetlivestats.com",
+    "category": "Media",
+    "description": "View live estimates about internet activity around the world.",
+    "tags": [
+      "internet",
+      "statistics",
+      "live"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.2,
+    "popular": 524,
+    "added": 176
+  },
+  {
+    "name": "Archive.today",
+    "url": "https://archive.today",
+    "category": "Tools",
+    "description": "Save snapshots of web pages.",
+    "tags": [
+      "archive",
+      "web"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.7,
+    "popular": 579,
+    "added": 175
+  },
+  {
+    "name": "Diffchecker",
+    "url": "https://diffchecker.com",
+    "category": "Tools",
+    "description": "Compare text and files.",
+    "tags": [
+      "compare",
+      "text"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.2,
+    "popular": 164,
+    "added": 174
+  },
+  {
+    "name": "JSON Crack",
+    "url": "https://jsoncrack.com",
+    "category": "Coding",
+    "description": "Visualize JSON as graphs.",
+    "tags": [
+      "json",
+      "visual"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.0,
+    "popular": 160,
+    "added": 173
+  },
+  {
+    "name": "Exercism",
+    "url": "https://exercism.org",
+    "category": "Coding",
+    "description": "Programming practice.",
+    "tags": [
+      "practice",
+      "coding"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.2,
+    "popular": 174,
+    "added": 172
+  },
+  {
+    "name": "Codecademy",
+    "url": "https://www.codecademy.com",
+    "category": "Coding",
+    "description": "Interactive coding lessons.",
+    "tags": [
+      "learning",
+      "code"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.6,
+    "popular": 442,
+    "added": 171
+  },
+  {
+    "name": "LeetCode",
+    "url": "https://leetcode.com",
+    "category": "Coding",
+    "description": "Programming challenges.",
+    "tags": [
+      "algorithms",
+      "interview"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.3,
+    "popular": 711,
+    "added": 170
+  },
+  {
+    "name": "Monkeytype",
+    "url": "https://monkeytype.com",
+    "category": "Tools",
+    "description": "Typing speed test.",
+    "tags": [
+      "typing",
+      "speed"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.7,
+    "popular": 939,
+    "added": 169
+  },
+  {
+    "name": "Keybr",
+    "url": "https://www.keybr.com",
+    "category": "Tools",
+    "description": "Learn touch typing.",
+    "tags": [
+      "typing"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.9,
+    "popular": 763,
+    "added": 168
+  },
+  {
+    "name": "GeoGuessr",
+    "url": "https://www.geoguessr.com/free",
+    "category": "Games",
+    "description": "Guess locations.",
+    "tags": [
+      "maps",
+      "game"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.6,
+    "popular": 762,
+    "added": 167
+  },
+  {
+    "name": "2048",
+    "url": "https://play2048.co",
+    "category": "Games",
+    "description": "Classic 2048.",
+    "tags": [
+      "puzzle"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.6,
+    "popular": 542,
+    "added": 166
+  },
+  {
+    "name": "FAST",
+    "url": "https://fast.com",
+    "category": "Tools",
+    "description": "Netflix speed test.",
+    "tags": [
+      "internet"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.2,
+    "popular": 264,
+    "added": 165
+  },
+  {
+    "name": "LibreOffice",
+    "url": "https://www.libreoffice.org",
+    "category": "Tools",
+    "description": "Free office suite.",
+    "tags": [
+      "office"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.2,
+    "popular": 974,
+    "added": 164
+  },
+  {
+    "name": "Openverse",
+    "url": "https://openverse.org",
+    "category": "Creative",
+    "description": "Open licensed media.",
+    "tags": [
+      "images"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.1,
+    "popular": 57,
+    "added": 163
+  },
+  {
+    "name": "Pixlr",
+    "url": "https://pixlr.com",
+    "category": "Creative",
+    "description": "Online photo editor.",
+    "tags": [
+      "photos"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.7,
+    "popular": 889,
+    "added": 162
+  },
+  {
+    "name": "Vecteezy",
+    "url": "https://www.vecteezy.com",
+    "category": "Creative",
+    "description": "Vectors and graphics.",
+    "tags": [
+      "vectors"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.7,
+    "popular": 279,
+    "added": 161
+  },
+  {
+    "name": "BBC Bitesize",
+    "url": "https://www.bbc.co.uk/bitesize",
+    "category": "School",
+    "description": "Study guides.",
+    "tags": [
+      "study"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.2,
+    "popular": 834,
+    "added": 160
+  },
+  {
+    "name": "Crash Course",
+    "url": "https://thecrashcourse.com",
+    "category": "School",
+    "description": "Educational videos.",
+    "tags": [
+      "videos"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.4,
+    "popular": 528,
+    "added": 159
+  },
+  {
+    "name": "NASA Eyes",
+    "url": "https://eyes.nasa.gov",
+    "category": "School",
+    "description": "Explore space.",
+    "tags": [
+      "space"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.9,
+    "popular": 403,
+    "added": 158
+  },
+  {
+    "name": "Windy",
+    "url": "https://windy.com",
+    "category": "Tools",
+    "description": "Interactive weather maps.",
+    "tags": [
+      "weather"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.3,
+    "popular": 861,
+    "added": 157
+  },
+  {
+    "name": "Music Map",
+    "url": "https://www.music-map.com",
+    "category": "Media",
+    "description": "Find similar artists.",
+    "tags": [
+      "music"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.1,
+    "popular": 167,
+    "added": 156
+  },
+  {
+    "name": "OpenLibrary",
+    "url": "https://openlibrary.org",
+    "category": "School",
+    "description": "Millions of books.",
+    "tags": [
+      "books"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.7,
+    "popular": 339,
+    "added": 155
+  },
+  {
+    "name": "Standard Ebooks",
+    "url": "https://standardebooks.org",
+    "category": "School",
+    "description": "Beautiful free ebooks.",
+    "tags": [
+      "books"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.0,
+    "popular": 770,
+    "added": 154
+  },
+  {
+    "name": "OpenGameArt",
+    "url": "https://opengameart.org",
+    "category": "Games",
+    "description": "Free game assets.",
+    "tags": [
+      "gamedev"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 925,
+    "added": 153
+  },
+  {
+    "name": "Kenney Assets",
+    "url": "https://kenney.nl/assets",
+    "category": "Games",
+    "description": "Free game assets.",
+    "tags": [
+      "gamedev"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.7,
+    "popular": 439,
+    "added": 152
+  },
+  {
+    "name": "Earth Nullschool",
+    "url": "https://earth.nullschool.net",
+    "category": "Fun",
+    "description": "Live earth weather.",
+    "tags": [
+      "earth"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.1,
+    "popular": 737,
+    "added": 151
+  },
+  {
+    "name": "FutureMe",
+    "url": "https://www.futureme.org",
+    "category": "Fun",
+    "description": "Send future emails.",
+    "tags": [
+      "letters"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.3,
+    "popular": 991,
+    "added": 150
+  },
+  {
+    "name": "Little Big Details",
+    "url": "https://littlebigdetails.com",
+    "category": "Creative",
+    "description": "UI inspiration.",
+    "tags": [
+      "design"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.0,
+    "popular": 340,
+    "added": 149
+  },
+  {
+    "name": "GeoFS",
+    "url": "https://www.geo-fs.com",
+    "category": "Games",
+    "description": "Browser flight simulator.",
+    "tags": [
+      "flight"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.6,
+    "popular": 252,
+    "added": 148
+  },
+  {
+    "name": "Worldle",
+    "url": "https://worldle.teuteuf.fr",
+    "category": "Games",
+    "description": "Geography guessing game.",
+    "tags": [
+      "geography"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.9,
+    "popular": 403,
+    "added": 147
+  },
+  {
+    "name": "Seterra",
+    "url": "https://www.seterra.com",
+    "category": "School",
+    "description": "Geography quizzes.",
+    "tags": [
+      "maps"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.6,
+    "popular": 382,
+    "added": 146
+  },
+  {
+    "name": "WebSDR",
+    "url": "https://websdr.org",
+    "category": "Fun",
+    "description": "Listen to radio receivers.",
+    "tags": [
+      "radio"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.9,
+    "popular": 833,
+    "added": 145
+  },
+  {
+    "name": "This Person Does Not Exist",
+    "url": "https://thispersondoesnotexist.com",
+    "category": "AI",
+    "description": "AI-generated faces.",
+    "tags": [
+      "ai",
+      "demo"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.2,
+    "popular": 644,
+    "added": 144
+  },
+  {
+    "name": "CodeSandbox",
+    "url": "https://codesandbox.io",
+    "category": "Coding",
+    "description": "Online editor for web projects and prototypes.",
+    "tags": [
+      "web",
+      "IDE",
+      "sandbox"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.8,
+    "popular": 136,
+    "added": 143
+  },
+  {
+    "name": "StackBlitz",
+    "url": "https://stackblitz.com",
+    "category": "Coding",
+    "description": "Run modern web projects instantly in the browser.",
+    "tags": [
+      "web",
+      "IDE",
+      "javascript"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.9,
+    "popular": 533,
+    "added": 142
+  },
+  {
+    "name": "Glitch",
+    "url": "https://glitch.com",
+    "category": "Coding",
+    "description": "Build and remix small web apps online.",
+    "tags": [
+      "web",
+      "hosting",
+      "projects"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.3,
+    "popular": 471,
+    "added": 141
+  },
+  {
+    "name": "DevDocs",
+    "url": "https://devdocs.io",
+    "category": "Coding",
+    "description": "Fast searchable documentation for many developer tools.",
+    "tags": [
+      "docs",
+      "reference",
+      "offline"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.0,
+    "popular": 60,
+    "added": 140
+  },
+  {
+    "name": "Learn Git Branching",
+    "url": "https://learngitbranching.js.org",
+    "category": "Coding",
+    "description": "Interactive visual lessons for Git branching.",
+    "tags": [
+      "git",
+      "learning",
+      "visual"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.2,
+    "popular": 984,
+    "added": 139
+  },
+  {
+    "name": "GitHub Gist",
+    "url": "https://gist.github.com",
+    "category": "Coding",
+    "description": "Share code snippets and small files.",
+    "tags": [
+      "git",
+      "snippets",
+      "sharing"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.8,
+    "popular": 526,
+    "added": 138
+  },
+  {
+    "name": "Carbon",
+    "url": "https://carbon.now.sh",
+    "category": "Coding",
+    "description": "Create polished images of source code.",
+    "tags": [
+      "code",
+      "images",
+      "sharing"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.7,
+    "popular": 429,
+    "added": 137
+  },
+  {
+    "name": "Ray.so",
+    "url": "https://ray.so",
+    "category": "Coding",
+    "description": "Create attractive screenshots of code.",
+    "tags": [
+      "code",
+      "screenshots",
+      "design"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.2,
+    "popular": 254,
+    "added": 136
+  },
+  {
+    "name": "Bundlephobia",
+    "url": "https://bundlephobia.com",
+    "category": "Coding",
+    "description": "Check the size and cost of npm packages.",
+    "tags": [
+      "npm",
+      "javascript",
+      "performance"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.9,
+    "popular": 103,
+    "added": 135
+  },
+  {
+    "name": "npm",
+    "url": "https://www.npmjs.com",
+    "category": "Coding",
+    "description": "Search packages for JavaScript and Node.js.",
+    "tags": [
+      "packages",
+      "javascript",
+      "node"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.1,
+    "popular": 467,
+    "added": 134
+  },
+  {
+    "name": "PyPI",
+    "url": "https://pypi.org",
+    "category": "Coding",
+    "description": "Find Python packages and libraries.",
+    "tags": [
+      "python",
+      "packages",
+      "libraries"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.4,
+    "popular": 628,
+    "added": 133
+  },
+  {
+    "name": "Godbolt Compiler Explorer",
+    "url": "https://godbolt.org",
+    "category": "Coding",
+    "description": "See how source code compiles into assembly.",
+    "tags": [
+      "compiler",
+      "C++",
+      "assembly"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 135,
+    "added": 132
+  },
+  {
+    "name": "SQLBolt",
+    "url": "https://sqlbolt.com",
+    "category": "Coding",
+    "description": "Learn SQL through interactive lessons.",
+    "tags": [
+      "sql",
+      "database",
+      "learning"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.1,
+    "popular": 737,
+    "added": 131
+  },
+  {
+    "name": "Flexbox Froggy",
+    "url": "https://flexboxfroggy.com",
+    "category": "Coding",
+    "description": "Learn CSS Flexbox through a game.",
+    "tags": [
+      "css",
+      "game",
+      "learning"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.2,
+    "popular": 224,
+    "added": 130
+  },
+  {
+    "name": "Grid Garden",
+    "url": "https://cssgridgarden.com",
+    "category": "Coding",
+    "description": "Learn CSS Grid through a game.",
+    "tags": [
+      "css",
+      "grid",
+      "learning"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 505,
+    "added": 129
+  },
+  {
+    "name": "Frontend Mentor",
+    "url": "https://www.frontendmentor.io",
+    "category": "Coding",
+    "description": "Practice frontend development with real design challenges.",
+    "tags": [
+      "frontend",
+      "practice",
+      "projects"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.3,
+    "popular": 51,
+    "added": 128
+  },
+  {
+    "name": "CSS-Tricks",
+    "url": "https://css-tricks.com",
+    "category": "Coding",
+    "description": "Articles and guides about modern web development.",
+    "tags": [
+      "css",
+      "web",
+      "articles"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.2,
+    "popular": 664,
+    "added": 127
+  },
+  {
+    "name": "Smashing Magazine",
+    "url": "https://www.smashingmagazine.com",
+    "category": "Coding",
+    "description": "Practical articles for web designers and developers.",
+    "tags": [
+      "web",
+      "design",
+      "articles"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.0,
+    "popular": 340,
+    "added": 126
+  },
+  {
+    "name": "web.dev",
+    "url": "https://web.dev",
+    "category": "Coding",
+    "description": "Guidance for building fast and accessible websites.",
+    "tags": [
+      "web",
+      "performance",
+      "accessibility"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.3,
+    "popular": 81,
+    "added": 125
+  },
+  {
+    "name": "A11Y Project",
+    "url": "https://www.a11yproject.com",
+    "category": "Coding",
+    "description": "Practical accessibility checklists and resources.",
+    "tags": [
+      "accessibility",
+      "web",
+      "checklist"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.1,
+    "popular": 477,
+    "added": 124
+  },
+  {
+    "name": "Quizlet",
+    "url": "https://quizlet.com",
+    "category": "School",
+    "description": "Create and study flashcards and practice sets.",
+    "tags": [
+      "flashcards",
+      "study",
+      "school"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.0,
+    "popular": 550,
+    "added": 123
+  },
+  {
+    "name": "Blooket",
+    "url": "https://www.blooket.com",
+    "category": "School",
+    "description": "Classroom quiz games and study activities.",
+    "tags": [
+      "quiz",
+      "game",
+      "school"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.0,
+    "popular": 340,
+    "added": 122
+  },
+  {
+    "name": "Kahoot",
+    "url": "https://kahoot.com",
+    "category": "School",
+    "description": "Create and play interactive quizzes.",
+    "tags": [
+      "quiz",
+      "classroom",
+      "game"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.4,
+    "popular": 548,
+    "added": 121
+  },
+  {
+    "name": "Socratic",
+    "url": "https://socratic.org",
+    "category": "School",
+    "description": "Learning help and explanations across school subjects.",
+    "tags": [
+      "homework",
+      "learning",
+      "school"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.4,
+    "popular": 118,
+    "added": 120
+  },
+  {
+    "name": "Google Scholar",
+    "url": "https://scholar.google.com",
+    "category": "School",
+    "description": "Search academic papers and scholarly sources.",
+    "tags": [
+      "research",
+      "papers",
+      "citations"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.3,
+    "popular": 971,
+    "added": 119
+  },
+  {
+    "name": "JSTOR Daily",
+    "url": "https://daily.jstor.org",
+    "category": "School",
+    "description": "Readable articles based on academic research.",
+    "tags": [
+      "research",
+      "history",
+      "articles"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.3,
+    "popular": 881,
+    "added": 118
+  },
+  {
+    "name": "Semantic Scholar",
+    "url": "https://www.semanticscholar.org",
+    "category": "School",
+    "description": "Search and explore scientific research papers.",
+    "tags": [
+      "research",
+      "science",
+      "papers"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.8,
+    "popular": 576,
+    "added": 117
+  },
+  {
+    "name": "Our World in Data",
+    "url": "https://ourworldindata.org",
+    "category": "School",
+    "description": "Charts and research on major global topics.",
+    "tags": [
+      "data",
+      "charts",
+      "research"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.9,
+    "popular": 233,
+    "added": 116
+  },
+  {
+    "name": "World History Encyclopedia",
+    "url": "https://www.worldhistory.org",
+    "category": "School",
+    "description": "Accessible articles about world history.",
+    "tags": [
+      "history",
+      "articles",
+      "school"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.0,
+    "popular": 940,
+    "added": 115
+  },
+  {
+    "name": "Periodic Videos",
+    "url": "https://www.periodicvideos.com",
+    "category": "School",
+    "description": "Videos about every element in the periodic table.",
+    "tags": [
+      "chemistry",
+      "videos",
+      "science"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 805,
+    "added": 114
+  },
+  {
+    "name": "ChemCollective",
+    "url": "https://chemcollective.org",
+    "category": "School",
+    "description": "Virtual chemistry labs and learning resources.",
+    "tags": [
+      "chemistry",
+      "lab",
+      "simulation"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 455,
+    "added": 113
+  },
+  {
+    "name": "Physics Classroom",
+    "url": "https://www.physicsclassroom.com",
+    "category": "School",
+    "description": "Lessons, interactives, and practice for physics.",
+    "tags": [
+      "physics",
+      "lessons",
+      "practice"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.8,
+    "popular": 676,
+    "added": 112
+  },
+  {
+    "name": "Mathigon",
+    "url": "https://mathigon.org",
+    "category": "School",
+    "description": "Interactive mathematical courses and activities.",
+    "tags": [
+      "math",
+      "interactive",
+      "learning"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.3,
+    "popular": 111,
+    "added": 111
+  },
+  {
+    "name": "Brilliant",
+    "url": "https://brilliant.org",
+    "category": "School",
+    "description": "Interactive lessons in math, science, and computing.",
+    "tags": [
+      "math",
+      "science",
+      "learning"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.9,
+    "popular": 853,
+    "added": 110
+  },
+  {
+    "name": "Purplemath",
+    "url": "https://www.purplemath.com",
+    "category": "School",
+    "description": "Clear lessons and examples for algebra topics.",
+    "tags": [
+      "algebra",
+      "math",
+      "lessons"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.8,
+    "popular": 806,
+    "added": 109
+  },
+  {
+    "name": "Paul's Online Math Notes",
+    "url": "https://tutorial.math.lamar.edu",
+    "category": "School",
+    "description": "Detailed notes for algebra and calculus.",
+    "tags": [
+      "calculus",
+      "algebra",
+      "notes"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.0,
+    "popular": 110,
+    "added": 108
+  },
+  {
+    "name": "Citation Machine",
+    "url": "https://www.citationmachine.net",
+    "category": "School",
+    "description": "Generate citations in common academic styles.",
+    "tags": [
+      "citations",
+      "writing",
+      "research"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.2,
+    "popular": 464,
+    "added": 107
+  },
+  {
+    "name": "EasyBib",
+    "url": "https://www.easybib.com",
+    "category": "School",
+    "description": "Create bibliographies and check citations.",
+    "tags": [
+      "citations",
+      "bibliography",
+      "writing"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.1,
+    "popular": 947,
+    "added": 106
+  },
+  {
+    "name": "Hemingway Editor",
+    "url": "https://hemingwayapp.com",
+    "category": "School",
+    "description": "Improve clarity and readability in writing.",
+    "tags": [
+      "writing",
+      "editing",
+      "clarity"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.4,
+    "popular": 688,
+    "added": 105
+  },
+  {
+    "name": "OneLook",
+    "url": "https://www.onelook.com",
+    "category": "School",
+    "description": "Search many dictionaries and related words.",
+    "tags": [
+      "dictionary",
+      "words",
+      "writing"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 165,
+    "added": 104
+  },
+  {
+    "name": "Thesaurus.com",
+    "url": "https://www.thesaurus.com",
+    "category": "School",
+    "description": "Find synonyms, antonyms, and word meanings.",
+    "tags": [
+      "words",
+      "synonyms",
+      "writing"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.9,
+    "popular": 803,
+    "added": 103
+  },
+  {
+    "name": "Merriam-Webster",
+    "url": "https://www.merriam-webster.com",
+    "category": "School",
+    "description": "Dictionary, thesaurus, and word games.",
+    "tags": [
+      "dictionary",
+      "words",
+      "language"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.4,
+    "popular": 58,
+    "added": 102
+  },
+  {
+    "name": "Duolingo",
+    "url": "https://www.duolingo.com",
+    "category": "School",
+    "description": "Practice languages with short interactive lessons.",
+    "tags": [
+      "languages",
+      "practice",
+      "learning"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.3,
+    "popular": 181,
+    "added": 101
+  },
+  {
+    "name": "Conjuguemos",
+    "url": "https://conjuguemos.com",
+    "category": "School",
+    "description": "Practice verb conjugation and vocabulary.",
+    "tags": [
+      "languages",
+      "Spanish",
+      "practice"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.7,
+    "popular": 619,
+    "added": 100
+  },
+  {
+    "name": "Krita",
+    "url": "https://krita.org",
+    "category": "Creative",
+    "description": "Free open-source painting and illustration software.",
+    "tags": [
+      "drawing",
+      "painting",
+      "open source"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.7,
+    "popular": 749,
+    "added": 99
+  },
+  {
+    "name": "GIMP",
+    "url": "https://www.gimp.org",
+    "category": "Creative",
+    "description": "Free open-source image editing software.",
+    "tags": [
+      "images",
+      "editor",
+      "open source"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.1,
+    "popular": 257,
+    "added": 98
+  },
+  {
+    "name": "Inkscape",
+    "url": "https://inkscape.org",
+    "category": "Creative",
+    "description": "Free open-source vector graphics editor.",
+    "tags": [
+      "vector",
+      "design",
+      "open source"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.4,
+    "popular": 998,
+    "added": 97
+  },
+  {
+    "name": "Blender",
+    "url": "https://www.blender.org",
+    "category": "Creative",
+    "description": "Free 3D modeling, animation, and rendering software.",
+    "tags": [
+      "3D",
+      "animation",
+      "open source"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.0,
+    "popular": 200,
+    "added": 96
+  },
+  {
+    "name": "Spline",
+    "url": "https://spline.design",
+    "category": "Creative",
+    "description": "Create interactive 3D designs in a browser.",
+    "tags": [
+      "3D",
+      "design",
+      "web"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.9,
+    "popular": 583,
+    "added": 95
+  },
+  {
+    "name": "Tinkercad",
+    "url": "https://www.tinkercad.com",
+    "category": "Creative",
+    "description": "Simple browser-based 3D design and electronics tools.",
+    "tags": [
+      "3D",
+      "CAD",
+      "education"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.7,
+    "popular": 769,
+    "added": 94
+  },
+  {
+    "name": "Penpot",
+    "url": "https://penpot.app",
+    "category": "Creative",
+    "description": "Open-source interface design and prototyping.",
+    "tags": [
+      "UI",
+      "design",
+      "open source"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.0,
+    "popular": 660,
+    "added": 93
+  },
+  {
+    "name": "Haikei",
+    "url": "https://haikei.app",
+    "category": "Creative",
+    "description": "Generate SVG backgrounds, waves, blobs, and patterns.",
+    "tags": [
+      "SVG",
+      "backgrounds",
+      "design"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.7,
+    "popular": 359,
+    "added": 92
+  },
+  {
+    "name": "BGJar",
+    "url": "https://bgjar.com",
+    "category": "Creative",
+    "description": "Create free SVG background patterns.",
+    "tags": [
+      "SVG",
+      "backgrounds",
+      "design"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.2,
+    "popular": 154,
+    "added": 91
+  },
+  {
+    "name": "Blobmaker",
+    "url": "https://www.blobmaker.app",
+    "category": "Creative",
+    "description": "Generate custom organic SVG blob shapes.",
+    "tags": [
+      "SVG",
+      "shapes",
+      "design"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.1,
+    "popular": 727,
+    "added": 90
+  },
+  {
+    "name": "Pattern Monster",
+    "url": "https://pattern.monster",
+    "category": "Creative",
+    "description": "Generate seamless SVG patterns.",
+    "tags": [
+      "patterns",
+      "SVG",
+      "design"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.0,
+    "popular": 170,
+    "added": 89
+  },
+  {
+    "name": "Fontjoy",
+    "url": "https://fontjoy.com",
+    "category": "Creative",
+    "description": "Generate font combinations using machine learning.",
+    "tags": [
+      "fonts",
+      "typography",
+      "design"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 515,
+    "added": 88
+  },
+  {
+    "name": "Type Scale",
+    "url": "https://typescale.com",
+    "category": "Creative",
+    "description": "Preview modular typography scales.",
+    "tags": [
+      "typography",
+      "fonts",
+      "design"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.8,
+    "popular": 916,
+    "added": 87
+  },
+  {
+    "name": "Shots.so",
+    "url": "https://shots.so",
+    "category": "Creative",
+    "description": "Create polished device mockups and screenshots.",
+    "tags": [
+      "mockups",
+      "screenshots",
+      "design"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.1,
+    "popular": 907,
+    "added": 86
+  },
+  {
+    "name": "Mockuphone",
+    "url": "https://mockuphone.com",
+    "category": "Creative",
+    "description": "Place screenshots inside device mockups.",
+    "tags": [
+      "mockups",
+      "devices",
+      "design"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.9,
+    "popular": 743,
+    "added": 85
+  },
+  {
+    "name": "LottieFiles",
+    "url": "https://lottiefiles.com",
+    "category": "Creative",
+    "description": "Find and customize lightweight web animations.",
+    "tags": [
+      "animation",
+      "assets",
+      "web"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.4,
+    "popular": 318,
+    "added": 84
+  },
+  {
+    "name": "Mixkit",
+    "url": "https://mixkit.co",
+    "category": "Creative",
+    "description": "Free stock video, music, sound effects, and templates.",
+    "tags": [
+      "video",
+      "audio",
+      "assets"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.0,
+    "popular": 660,
+    "added": 83
+  },
+  {
+    "name": "Coverr",
+    "url": "https://coverr.co",
+    "category": "Creative",
+    "description": "Free stock video footage for projects.",
+    "tags": [
+      "video",
+      "stock",
+      "assets"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 625,
+    "added": 82
+  },
+  {
+    "name": "Freesound",
+    "url": "https://freesound.org",
+    "category": "Creative",
+    "description": "Community library of sound effects and recordings.",
+    "tags": [
+      "audio",
+      "sound effects",
+      "assets"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.9,
+    "popular": 923,
+    "added": 81
+  },
+  {
+    "name": "PhotoMosh",
+    "url": "https://photomosh.com",
+    "category": "Creative",
+    "description": "Create glitch effects for images and videos.",
+    "tags": [
+      "glitch",
+      "images",
+      "effects"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.9,
+    "popular": 853,
+    "added": 80
+  },
+  {
+    "name": "Cloudflare Speed Test",
+    "url": "https://speed.cloudflare.com",
+    "category": "Tools",
+    "description": "Test internet speed, latency, and connection quality.",
+    "tags": [
+      "internet",
+      "speed",
+      "network"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.2,
+    "popular": 764,
+    "added": 79
+  },
+  {
+    "name": "DownDetector",
+    "url": "https://downdetector.com",
+    "category": "Tools",
+    "description": "View reports for current service outages.",
+    "tags": [
+      "outages",
+      "status",
+      "services"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.4,
+    "popular": 138,
+    "added": 78
+  },
+  {
+    "name": "MXToolbox",
+    "url": "https://mxtoolbox.com",
+    "category": "Tools",
+    "description": "Network, DNS, and email diagnostic tools.",
+    "tags": [
+      "DNS",
+      "network",
+      "email"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.8,
+    "popular": 706,
+    "added": 77
+  },
+  {
+    "name": "DNS Checker",
+    "url": "https://dnschecker.org",
+    "category": "Tools",
+    "description": "Check DNS records across global servers.",
+    "tags": [
+      "DNS",
+      "network",
+      "web"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.4,
+    "popular": 78,
+    "added": 76
+  },
+  {
+    "name": "Whois Lookup",
+    "url": "https://who.is",
+    "category": "Tools",
+    "description": "Look up public domain registration information.",
+    "tags": [
+      "domains",
+      "whois",
+      "web"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.8,
+    "popular": 766,
+    "added": 75
+  },
+  {
+    "name": "Wayback Machine",
+    "url": "https://web.archive.org",
+    "category": "Tools",
+    "description": "Browse archived versions of websites.",
+    "tags": [
+      "archive",
+      "history",
+      "web"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.1,
+    "popular": 567,
+    "added": 74
+  },
+  {
+    "name": "TinyURL",
+    "url": "https://tinyurl.com",
+    "category": "Tools",
+    "description": "Create shorter versions of long links.",
+    "tags": [
+      "links",
+      "shortener",
+      "sharing"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.3,
+    "popular": 891,
+    "added": 73
+  },
+  {
+    "name": "QR Code Monkey",
+    "url": "https://www.qrcode-monkey.com",
+    "category": "Tools",
+    "description": "Create customizable QR codes.",
+    "tags": [
+      "QR",
+      "generator",
+      "sharing"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.3,
+    "popular": 131,
+    "added": 72
+  },
+  {
+    "name": "Temp Mail",
+    "url": "https://temp-mail.org",
+    "category": "Tools",
+    "description": "Use a temporary email inbox for low-risk signups.",
+    "tags": [
+      "email",
+      "temporary",
+      "privacy"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 125,
+    "added": 71
+  },
+  {
+    "name": "10 Minute Mail",
+    "url": "https://10minutemail.com",
+    "category": "Tools",
+    "description": "Create a short-lived disposable email address.",
+    "tags": [
+      "email",
+      "temporary",
+      "privacy"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.4,
+    "popular": 668,
+    "added": 70
+  },
+  {
+    "name": "Pastebin",
+    "url": "https://pastebin.com",
+    "category": "Tools",
+    "description": "Share plain text and code snippets.",
+    "tags": [
+      "text",
+      "sharing",
+      "code"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.2,
+    "popular": 104,
+    "added": 69
+  },
+  {
+    "name": "PrivateBin",
+    "url": "https://privatebin.net",
+    "category": "Tools",
+    "description": "Share encrypted text that can expire.",
+    "tags": [
+      "encrypted",
+      "text",
+      "privacy"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.2,
+    "popular": 484,
+    "added": 68
+  },
+  {
+    "name": "OnlineOCR",
+    "url": "https://www.onlineocr.net",
+    "category": "Tools",
+    "description": "Extract text from images and PDF files.",
+    "tags": [
+      "OCR",
+      "images",
+      "PDF"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.1,
+    "popular": 237,
+    "added": 67
+  },
+  {
+    "name": "Convertio",
+    "url": "https://convertio.co",
+    "category": "Tools",
+    "description": "Convert files between many common formats.",
+    "tags": [
+      "files",
+      "converter",
+      "formats"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.3,
+    "popular": 71,
+    "added": 66
+  },
+  {
+    "name": "Zamzar",
+    "url": "https://www.zamzar.com",
+    "category": "Tools",
+    "description": "Online file conversion for documents and media.",
+    "tags": [
+      "files",
+      "converter",
+      "media"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.9,
+    "popular": 653,
+    "added": 65
+  },
+  {
+    "name": "WeTransfer",
+    "url": "https://wetransfer.com",
+    "category": "Tools",
+    "description": "Send large files through shareable links.",
+    "tags": [
+      "files",
+      "sharing",
+      "transfer"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 575,
+    "added": 64
+  },
+  {
+    "name": "SwissTransfer",
+    "url": "https://www.swisstransfer.com",
+    "category": "Tools",
+    "description": "Send large files with configurable expiration.",
+    "tags": [
+      "files",
+      "sharing",
+      "transfer"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.4,
+    "popular": 168,
+    "added": 63
+  },
+  {
+    "name": "Jumpshare",
+    "url": "https://jumpshare.com",
+    "category": "Tools",
+    "description": "Share files, screenshots, and recordings.",
+    "tags": [
+      "files",
+      "sharing",
+      "screenshots"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.3,
+    "popular": 951,
+    "added": 62
+  },
+  {
+    "name": "Screenity",
+    "url": "https://screenity.io",
+    "category": "Tools",
+    "description": "Open-source screen recorder for Chrome.",
+    "tags": [
+      "screen recording",
+      "browser",
+      "open source"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.0,
+    "popular": 50,
+    "added": 61
+  },
+  {
+    "name": "OBS Studio",
+    "url": "https://obsproject.com",
+    "category": "Tools",
+    "description": "Free software for recording and live streaming.",
+    "tags": [
+      "recording",
+      "streaming",
+      "open source"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.2,
+    "popular": 594,
+    "added": 60
+  },
+  {
+    "name": "HandBrake",
+    "url": "https://handbrake.fr",
+    "category": "Tools",
+    "description": "Free open-source video transcoder.",
+    "tags": [
+      "video",
+      "converter",
+      "open source"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.4,
+    "popular": 398,
+    "added": 59
+  },
+  {
+    "name": "VLC",
+    "url": "https://www.videolan.org/vlc",
+    "category": "Tools",
+    "description": "Free media player that supports many formats.",
+    "tags": [
+      "video",
+      "audio",
+      "player"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.9,
+    "popular": 703,
+    "added": 58
+  },
+  {
+    "name": "7-Zip",
+    "url": "https://www.7-zip.org",
+    "category": "Tools",
+    "description": "Free file compression and archive utility.",
+    "tags": [
+      "files",
+      "archive",
+      "compression"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.7,
+    "popular": 999,
+    "added": 57
+  },
+  {
+    "name": "Everything Search",
+    "url": "https://www.voidtools.com",
+    "category": "Tools",
+    "description": "Instantly search filenames on Windows.",
+    "tags": [
+      "Windows",
+      "search",
+      "files"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.1,
+    "popular": 487,
+    "added": 56
+  },
+  {
+    "name": "Rufus",
+    "url": "https://rufus.ie",
+    "category": "Tools",
+    "description": "Create bootable USB drives.",
+    "tags": [
+      "USB",
+      "boot",
+      "Windows"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.3,
+    "popular": 931,
+    "added": 55
+  },
+  {
+    "name": "Ventoy",
+    "url": "https://www.ventoy.net",
+    "category": "Tools",
+    "description": "Boot multiple ISO files from one USB drive.",
+    "tags": [
+      "USB",
+      "boot",
+      "ISO"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 765,
+    "added": 54
+  },
+  {
+    "name": "OpenStreetMap",
+    "url": "https://www.openstreetmap.org",
+    "category": "Media",
+    "description": "Collaboratively maintained world map data.",
+    "tags": [
+      "maps",
+      "open data",
+      "world"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.9,
+    "popular": 733,
+    "added": 53
+  },
+  {
+    "name": "Google Arts & Culture",
+    "url": "https://artsandculture.google.com",
+    "category": "Media",
+    "description": "Explore art, museums, history, and cultural collections.",
+    "tags": [
+      "art",
+      "museums",
+      "history"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.9,
+    "popular": 923,
+    "added": 52
+  },
+  {
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com",
+    "category": "Media",
+    "description": "Stories and media about science, nature, and culture.",
+    "tags": [
+      "science",
+      "nature",
+      "culture"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.1,
+    "popular": 797,
+    "added": 51
+  },
+  {
+    "name": "TED",
+    "url": "https://www.ted.com",
+    "category": "Media",
+    "description": "Talks and ideas across science, technology, and culture.",
+    "tags": [
+      "talks",
+      "ideas",
+      "video"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.1,
+    "popular": 647,
+    "added": 50
+  },
+  {
+    "name": "TED-Ed",
+    "url": "https://ed.ted.com",
+    "category": "Media",
+    "description": "Short animated educational lessons.",
+    "tags": [
+      "education",
+      "video",
+      "lessons"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 245,
+    "added": 49
+  },
+  {
+    "name": "PBS",
+    "url": "https://www.pbs.org",
+    "category": "Media",
+    "description": "Public television programs, documentaries, and learning resources.",
+    "tags": [
+      "documentaries",
+      "education",
+      "video"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.9,
+    "popular": 703,
+    "added": 48
+  },
+  {
+    "name": "NPR",
+    "url": "https://www.npr.org",
+    "category": "Media",
+    "description": "News, podcasts, music, and cultural reporting.",
+    "tags": [
+      "news",
+      "podcasts",
+      "radio"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.0,
+    "popular": 780,
+    "added": 47
+  },
+  {
+    "name": "Project Radio",
+    "url": "https://radio.garden",
+    "category": "Media",
+    "description": "Explore live radio stations around the globe.",
+    "tags": [
+      "radio",
+      "world",
+      "music"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.4,
+    "popular": 278,
+    "added": 46
+  },
+  {
+    "name": "Open Culture",
+    "url": "https://www.openculture.com",
+    "category": "Media",
+    "description": "Free cultural and educational media collections.",
+    "tags": [
+      "courses",
+      "books",
+      "culture"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.4,
+    "popular": 668,
+    "added": 45
+  },
+  {
+    "name": "IMSLP",
+    "url": "https://imslp.org",
+    "category": "Media",
+    "description": "Public-domain sheet music and musical scores.",
+    "tags": [
+      "music",
+      "scores",
+      "public domain"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.9,
+    "popular": 873,
+    "added": 44
+  },
+  {
+    "name": "Akinator",
+    "url": "https://en.akinator.com",
+    "category": "Fun",
+    "description": "A guessing game that tries to identify your character.",
+    "tags": [
+      "game",
+      "guessing",
+      "fun"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 125,
+    "added": 43
+  },
+  {
+    "name": "Bored Button",
+    "url": "https://www.boredbutton.com",
+    "category": "Fun",
+    "description": "Jump to random interactive websites.",
+    "tags": [
+      "random",
+      "fun",
+      "web"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.0,
+    "popular": 570,
+    "added": 42
+  },
+  {
+    "name": "Silk",
+    "url": "https://weavesilk.com",
+    "category": "Fun",
+    "description": "Create flowing symmetrical digital art.",
+    "tags": [
+      "drawing",
+      "interactive",
+      "art"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.3,
+    "popular": 971,
+    "added": 41
+  },
+  {
+    "name": "Sandspiel",
+    "url": "https://sandspiel.club",
+    "category": "Fun",
+    "description": "Play with falling sand and particle simulations.",
+    "tags": [
+      "simulation",
+      "particles",
+      "game"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.1,
+    "popular": 867,
+    "added": 40
+  },
+  {
+    "name": "Fluid Simulation",
+    "url": "https://paveldogreat.github.io/WebGL-Fluid-Simulation",
+    "category": "Fun",
+    "description": "Interactive colorful WebGL fluid simulation.",
+    "tags": [
+      "simulation",
+      "WebGL",
+      "interactive"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.3,
+    "popular": 751,
+    "added": 39
+  },
+  {
+    "name": "Plink",
+    "url": "https://plink.in",
+    "category": "Fun",
+    "description": "Make music together using a simple visual instrument.",
+    "tags": [
+      "music",
+      "interactive",
+      "multiplayer"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.0,
+    "popular": 770,
+    "added": 38
+  },
+  {
+    "name": "Zoomquilt",
+    "url": "https://zoomquilt.org",
+    "category": "Fun",
+    "description": "Explore an endlessly zooming collaborative artwork.",
+    "tags": [
+      "art",
+      "infinite",
+      "interactive"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.0,
+    "popular": 260,
+    "added": 37
+  },
+  {
+    "name": "Drive & Listen",
+    "url": "https://driveandlisten.herokuapp.com",
+    "category": "Fun",
+    "description": "Virtually drive through cities while listening to local radio.",
+    "tags": [
+      "cities",
+      "radio",
+      "travel"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.1,
+    "popular": 117,
+    "added": 36
+  },
+  {
+    "name": "City Guesser",
+    "url": "https://virtualvacation.us/guess",
+    "category": "Fun",
+    "description": "Guess cities from walking and driving videos.",
+    "tags": [
+      "geography",
+      "video",
+      "game"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 675,
+    "added": 35
+  },
+  {
+    "name": "Virtual Vacation",
+    "url": "https://virtualvacation.us",
+    "category": "Fun",
+    "description": "Explore walking and driving videos from cities worldwide.",
+    "tags": [
+      "travel",
+      "cities",
+      "video"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.6,
+    "popular": 772,
+    "added": 34
+  },
+  {
+    "name": "Museum of Endangered Sounds",
+    "url": "http://savethesounds.info",
+    "category": "Fun",
+    "description": "Listen to sounds from old technology.",
+    "tags": [
+      "nostalgia",
+      "audio",
+      "technology"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.6,
+    "popular": 102,
+    "added": 33
+  },
+  {
+    "name": "Incredibox Demo",
+    "url": "https://www.incredibox.com/demo",
+    "category": "Fun",
+    "description": "Create beatbox music by combining animated performers.",
+    "tags": [
+      "music",
+      "game",
+      "creative"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.2,
+    "popular": 714,
+    "added": 32
+  },
+  {
+    "name": "itch.io Browser Games",
+    "url": "https://itch.io/games/html5",
+    "category": "Games",
+    "description": "Browse indie games that run in a web browser.",
+    "tags": [
+      "indie",
+      "browser",
+      "games"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.3,
+    "popular": 631,
+    "added": 31
+  },
+  {
+    "name": "Newgrounds Games",
+    "url": "https://www.newgrounds.com/games",
+    "category": "Games",
+    "description": "Independent browser games and animations.",
+    "tags": [
+      "browser",
+      "indie",
+      "games"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.3,
+    "popular": 751,
+    "added": 30
+  },
+  {
+    "name": "Game Jolt",
+    "url": "https://gamejolt.com/games",
+    "category": "Games",
+    "description": "Discover indie games and game communities.",
+    "tags": [
+      "indie",
+      "games",
+      "community"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.9,
+    "popular": 83,
+    "added": 29
+  },
+  {
+    "name": "TETR.IO",
+    "url": "https://tetr.io",
+    "category": "Games",
+    "description": "Fast modern block-stacking game.",
+    "tags": [
+      "puzzle",
+      "multiplayer",
+      "arcade"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.7,
+    "popular": 819,
+    "added": 28
+  },
+  {
+    "name": "Skribbl.io",
+    "url": "https://skribbl.io",
+    "category": "Games",
+    "description": "Multiplayer drawing and guessing game.",
+    "tags": [
+      "drawing",
+      "multiplayer",
+      "party"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 225,
+    "added": 27
+  },
+  {
+    "name": "Gartic Phone",
+    "url": "https://garticphone.com",
+    "category": "Games",
+    "description": "Telephone-style drawing party game.",
+    "tags": [
+      "drawing",
+      "party",
+      "multiplayer"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.0,
+    "popular": 430,
+    "added": 26
+  },
+  {
+    "name": "Codenames",
+    "url": "https://codenames.game",
+    "category": "Games",
+    "description": "Play the word-based team game online.",
+    "tags": [
+      "words",
+      "party",
+      "multiplayer"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.1,
+    "popular": 727,
+    "added": 25
+  },
+  {
+    "name": "Board Game Arena",
+    "url": "https://boardgamearena.com",
+    "category": "Games",
+    "description": "Play many board games online.",
+    "tags": [
+      "board games",
+      "multiplayer",
+      "strategy"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.7,
+    "popular": 469,
+    "added": 24
+  },
+  {
+    "name": "Jigsaw Explorer",
+    "url": "https://www.jigsawexplorer.com",
+    "category": "Games",
+    "description": "Play free online jigsaw puzzles.",
+    "tags": [
+      "puzzle",
+      "relaxing",
+      "images"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.4,
+    "popular": 58,
+    "added": 23
+  },
+  {
+    "name": "Sudoku.com",
+    "url": "https://sudoku.com",
+    "category": "Games",
+    "description": "Play Sudoku puzzles at different difficulty levels.",
+    "tags": [
+      "puzzle",
+      "numbers",
+      "logic"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.0,
+    "popular": 400,
+    "added": 22
+  },
+  {
+    "name": "Minesweeper Online",
+    "url": "https://minesweeperonline.com",
+    "category": "Games",
+    "description": "Play the classic Minesweeper game.",
+    "tags": [
+      "classic",
+      "puzzle",
+      "logic"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.1,
+    "popular": 307,
+    "added": 21
+  },
+  {
+    "name": "Cookie Clicker",
+    "url": "https://orteil.dashnet.org/cookieclicker",
+    "category": "Games",
+    "description": "Classic incremental browser game.",
+    "tags": [
+      "idle",
+      "browser",
+      "game"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.5,
+    "popular": 845,
+    "added": 20
+  },
+  {
+    "name": "Universal Paperclips",
+    "url": "https://www.decisionproblem.com/paperclips",
+    "category": "Games",
+    "description": "Minimal strategy and incremental game.",
+    "tags": [
+      "strategy",
+      "idle",
+      "browser"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.8,
+    "popular": 946,
+    "added": 19
+  },
+  {
+    "name": "DuckDuckGo",
+    "url": "https://duckduckgo.com",
+    "category": "Privacy",
+    "description": "Privacy-focused web search engine.",
+    "tags": [
+      "search",
+      "privacy",
+      "web"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.4,
+    "popular": 148,
+    "added": 18
+  },
+  {
+    "name": "Brave Search",
+    "url": "https://search.brave.com",
+    "category": "Privacy",
+    "description": "Independent search engine with privacy features.",
+    "tags": [
+      "search",
+      "privacy",
+      "web"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.6,
+    "popular": 332,
+    "added": 17
+  },
+  {
+    "name": "Proton Mail",
+    "url": "https://proton.me/mail",
+    "category": "Privacy",
+    "description": "Encrypted email service with a free plan.",
+    "tags": [
+      "email",
+      "encrypted",
+      "privacy"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.1,
+    "popular": 827,
+    "added": 16
+  },
+  {
+    "name": "Proton Drive",
+    "url": "https://proton.me/drive",
+    "category": "Privacy",
+    "description": "Encrypted cloud file storage.",
+    "tags": [
+      "cloud",
+      "encrypted",
+      "files"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.0,
+    "popular": 710,
+    "added": 15
+  },
+  {
+    "name": "SimpleLogin",
+    "url": "https://simplelogin.io",
+    "category": "Privacy",
+    "description": "Create email aliases that forward to your real inbox.",
+    "tags": [
+      "email",
+      "aliases",
+      "privacy"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.3,
+    "popular": 311,
+    "added": 14
+  },
+  {
+    "name": "Firefox Relay",
+    "url": "https://relay.firefox.com",
+    "category": "Privacy",
+    "description": "Generate email masks to protect your address.",
+    "tags": [
+      "email",
+      "aliases",
+      "privacy"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.4,
+    "popular": 348,
+    "added": 13
+  },
+  {
+    "name": "AdGuard DNS",
+    "url": "https://adguard-dns.io",
+    "category": "Privacy",
+    "description": "DNS service that can block trackers and ads.",
+    "tags": [
+      "DNS",
+      "privacy",
+      "blocking"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.5,
+    "popular": 825,
+    "added": 12
+  },
+  {
+    "name": "NextDNS",
+    "url": "https://nextdns.io",
+    "category": "Privacy",
+    "description": "Customizable DNS filtering and analytics.",
+    "tags": [
+      "DNS",
+      "filtering",
+      "privacy"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.4,
+    "popular": 758,
+    "added": 11
+  },
+  {
+    "name": "EFF Cover Your Tracks",
+    "url": "https://coveryourtracks.eff.org",
+    "category": "Privacy",
+    "description": "Test how uniquely your browser can be identified.",
+    "tags": [
+      "browser",
+      "fingerprinting",
+      "privacy"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.3,
+    "popular": 741,
+    "added": 10
+  },
+  {
+    "name": "CryptPad",
+    "url": "https://cryptpad.org",
+    "category": "Privacy",
+    "description": "End-to-end encrypted collaborative documents.",
+    "tags": [
+      "documents",
+      "encrypted",
+      "collaboration"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.7,
+    "popular": 949,
+    "added": 9
+  },
+  {
+    "name": "Hugging Face",
+    "url": "https://huggingface.co",
+    "category": "AI",
+    "description": "Explore open machine-learning models and datasets.",
+    "tags": [
+      "AI",
+      "models",
+      "datasets"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.2,
+    "popular": 234,
+    "added": 8
+  },
+  {
+    "name": "Replicate",
+    "url": "https://replicate.com/explore",
+    "category": "AI",
+    "description": "Try and run public machine-learning models.",
+    "tags": [
+      "AI",
+      "models",
+      "demos"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.1,
+    "popular": 797,
+    "added": 7
+  },
+  {
+    "name": "TensorFlow Playground",
+    "url": "https://playground.tensorflow.org",
+    "category": "AI",
+    "description": "Visualize how a neural network learns.",
+    "tags": [
+      "AI",
+      "neural networks",
+      "learning"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.6,
+    "popular": 752,
+    "added": 6
+  },
+  {
+    "name": "Google AI Experiments",
+    "url": "https://experiments.withgoogle.com/collection/ai",
+    "category": "AI",
+    "description": "Creative experiments made with artificial intelligence.",
+    "tags": [
+      "AI",
+      "experiments",
+      "interactive"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.9,
+    "popular": 603,
+    "added": 5
+  },
+  {
+    "name": "Quick Draw Dataset",
+    "url": "https://quickdraw.withgoogle.com/data",
+    "category": "AI",
+    "description": "Explore millions of doodles used for machine-learning research.",
+    "tags": [
+      "AI",
+      "dataset",
+      "drawing"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.1,
+    "popular": 417,
+    "added": 4
+  },
+  {
+    "name": "ML for Kids",
+    "url": "https://machinelearningforkids.co.uk",
+    "category": "AI",
+    "description": "Beginner-friendly machine-learning projects.",
+    "tags": [
+      "AI",
+      "education",
+      "projects"
+    ],
+    "free": true,
+    "noLogin": false,
+    "rating": 4.9,
+    "popular": 923,
+    "added": 3
+  },
+  {
+    "name": "Stable Diffusion Web",
+    "url": "https://stablediffusionweb.com",
+    "category": "AI",
+    "description": "Public information and demos related to image generation.",
+    "tags": [
+      "AI",
+      "images",
+      "demo"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.8,
+    "popular": 916,
+    "added": 2
+  },
+  {
+    "name": "Civitai",
+    "url": "https://civitai.com",
+    "category": "AI",
+    "description": "Community models and resources for generative art.",
+    "tags": [
+      "AI",
+      "models",
+      "art"
+    ],
+    "free": true,
+    "noLogin": true,
+    "rating": 4.3,
+    "popular": 291,
+    "added": 1
+  }
+]
